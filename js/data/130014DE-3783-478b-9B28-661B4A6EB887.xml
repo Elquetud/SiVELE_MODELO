@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.4.1:1", "", "Diagrama_Clases", "EARoot/EA4/EA1/EA322.htm", "175.png", "30", "0", "", "Logical diagram0","{76F471EF-BAE4-434e-9579-346E9DED545A}");
+tocTab[tocTab.length] = new Array("0.4.1:2", "", "Cliente", "EARoot/EA4/EA1/EA325.htm", "5.png", "E184", "0", "", "Class0","{4B1B877C-D48F-4958-AB95-340E5445DB12}");
+tocTab[tocTab.length] = new Array("0.4.1:3", "", "Compras", "EARoot/EA4/EA1/EA326.htm", "5.png", "E191", "0", "", "Class0","{0A0A85DF-F386-4c16-AC29-5678FAB8DBE6}");
+tocTab[tocTab.length] = new Array("0.4.1:4", "", "Compras", "EARoot/EA4/EA1/EA327.htm", "5.png", "E333", "0", "", "Class0","{00585871-2358-458d-800F-D26C16A66D45}");
+tocTab[tocTab.length] = new Array("0.4.1:5", "", "Devoluciones", "EARoot/EA4/EA1/EA328.htm", "5.png", "E192", "0", "", "Class0","{93FC9871-CADA-4a02-B4E9-4CC8A204B8C5}");
+tocTab[tocTab.length] = new Array("0.4.1:6", "", "Ecommerce", "EARoot/EA4/EA1/EA329.htm", "5.png", "E185", "0", "", "Class0","{240CF0F8-6799-4968-AF5C-8E7B35BDF396}");
+tocTab[tocTab.length] = new Array("0.4.1:7", "", "Entrega_Producto", "EARoot/EA4/EA1/EA330.htm", "5.png", "E186", "0", "", "Class0","{9CC29CE8-43CB-4766-AA54-4FF7A6488F08}");
+tocTab[tocTab.length] = new Array("0.4.1:8", "", "Metodo_Pago", "EARoot/EA4/EA1/EA331.htm", "5.png", "E187", "0", "", "Class0","{53AB7440-A40B-48f1-82BB-7EB10C456B77}");
+tocTab[tocTab.length] = new Array("0.4.1:9", "", "Proceso_Ventas", "EARoot/EA4/EA1/EA332.htm", "5.png", "E188", "0", "", "Class0","{6A9E40E0-E3C2-48b9-AED5-B86D2BA9FDD5}");
+tocTab[tocTab.length] = new Array("0.4.1:10", "", "Registrar_Usuarios", "EARoot/EA4/EA1/EA333.htm", "5.png", "E190", "0", "", "Class0","{621A5EC6-C67B-4883-B361-24F706DFE294}");
+tocTab[tocTab.length] = new Array("0.4.1:11", "", "Servidor", "EARoot/EA4/EA1/EA334.htm", "5.png", "E183", "0", "", "Class0","{24CAF752-397C-4603-8A08-90EF9FAA57AA}");
